@@ -18,6 +18,7 @@ namespace LearningUsing
     }
     class Program
     {
+        //delegates, events and lambda expressions tomorrow
         static void Main(string[] args)
         {
             //variable that will give us reference to the resource
